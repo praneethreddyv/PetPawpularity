@@ -1,0 +1,5 @@
+Download the model weights and save it in weights folder Download link
+
+After adding the model run the deployed application using streamlit:
+
+"streamlit run main.py"
